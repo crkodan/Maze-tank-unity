@@ -1,0 +1,357 @@
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\nunit.framework.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\nunit.framework.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\obj\Debug\Assembly-CSharp.dll
+C:\Users\tc4a17\Desktop\UNITY HANS\TestUnity_160417066\obj\Debug\Assembly-CSharp.pdb
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Assembly-CSharp.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\nunit.framework.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Advertisements.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Analytics.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Graphs.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.HoloLens.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Networking.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Purchasing.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TestRunner.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Timeline.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UI.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.VR.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Advertisements.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Purchasing.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UI.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.Cecil.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.DataContract.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\ExCSS.Unity.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.CecilTools.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UI.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UI.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Networking.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TestRunner.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\nunit.framework.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Timeline.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.HoloLens.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.VR.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\obj\Debug\Assembly-CSharp.dll
+F:\SEMESTER 5\PBM\UNITY HANS\TestUnity_160417066\obj\Debug\Assembly-CSharp.pdb
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\nunit.framework.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.WebGL.Extensions.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\nunit.framework.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\tc4a17\Desktop\TestUnity_160417066\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\tc4a17\Desktop\TestUnity_160417066\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\tc4a17\Desktop\TestUnity_160417066\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\tc4a17\Desktop\TestUnity_160417066\obj\Debug\Assembly-CSharp.dll
+C:\Users\tc4a17\Desktop\TestUnity_160417066\obj\Debug\Assembly-CSharp.pdb
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Assembly-CSharp.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Boo.Lang.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\mscorlib.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\nunit.framework.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\System.Core.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\System.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\System.Xml.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\System.Xml.Linq.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.Analytics.Editor.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.Locator.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEditor.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UI.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.VFXModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityScript.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityScript.Lang.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.Cecil.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.DataContract.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\ExCSS.Unity.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.IvyParser.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.CecilTools.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEditor.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\KULIAH\smstr5\PBm\pbm\Temp\bin\Debug\nunit.framework.xml
+E:\KULIAH\smstr5\PBm\pbm\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\KULIAH\smstr5\PBm\pbm\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\KULIAH\smstr5\PBm\pbm\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\KULIAH\smstr5\PBm\pbm\obj\Debug\Assembly-CSharp.dll
+E:\KULIAH\smstr5\PBm\pbm\obj\Debug\Assembly-CSharp.pdb
